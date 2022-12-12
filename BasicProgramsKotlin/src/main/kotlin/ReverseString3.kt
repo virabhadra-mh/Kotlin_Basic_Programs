@@ -6,7 +6,7 @@ fun reverse(str: String): String {
     }
 */
 
-    for (i in str.length-1 downTo   0) {
+    for (i in str.length-1 downTo 0) {
         reverse += str[i]
     }
     return reverse

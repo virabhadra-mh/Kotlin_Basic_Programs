@@ -1,4 +1,5 @@
 
+
 fun main(array: Array<String>){
      var n=50
      var count=2         // '0' and '1' are not prime numbers
